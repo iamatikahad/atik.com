@@ -20,9 +20,9 @@ export function Contact() {
                     <p className="text-zinc-500 text-sm">© {new Date().getFullYear()} Nayeem Abdullah (Abid). All rights reserved.</p>
 
                     <div className="flex items-center gap-6">
-                        <SocialLink href="https://github.com/Nayeem-Abdullah-Abid" label="GitHub" />
-                        <SocialLink href="https://www.linkedin.com/in/nayeem-abdullah-abid/" label="LinkedIn" />
-                        <SocialLink href="https://www.facebook.com/hiyabiid" label="Facebook" />
+                        <SocialLink href="https://github.com/iamatikahad" label="GitHub" />
+                        <SocialLink href="https://www.linkedin.com/in/iamatikahad/" label="LinkedIn" />
+                        <SocialLink href="https://www.instagram.com/iamatikahad/" label="Instagram" />
                     </div>
                 </div>
             </div>

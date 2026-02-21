@@ -39,10 +39,10 @@ export function Navbar() {
             <div className="w-full flex items-center justify-between">
                 <Link href="/" className="flex items-center gap-2 group">
                     <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-blue-500 to-purple-500 flex items-center justify-center text-white font-bold text-sm tracking-tighter" style={{ boxShadow: scrolled ? "0 0 15px rgba(59, 130, 246, 0.5)" : "none" }}>
-                        Ab
+                        Aa
                     </div>
                     <span className="font-semibold text-white tracking-widest text-sm uppercase">
-                        Abid.
+                        Ahad.
                     </span>
                 </Link>
 
@@ -71,7 +71,7 @@ export function Navbar() {
                 </ul>
 
                 <a
-                    href="https://forms.gle/AwQcmw97KT9dTj4R9"
+                    href="https://forms.gle/NX2GJKqkc2Q3DjnWA"
                     target="_blank"
                     rel="noreferrer"
                     className="md:hidden flex h-10 px-4 items-center justify-center rounded-full bg-white text-black text-xs font-bold uppercase tracking-widest"
