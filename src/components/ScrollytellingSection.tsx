@@ -120,10 +120,10 @@ export function ScrollytellingSection({ totalFrames = 75 }: { totalFrames?: numb
                         className="absolute inset-0 flex flex-col items-center justify-center text-center p-8"
                     >
                         <h1 className="text-5xl md:text-8xl font-bold tracking-tight text-white drop-shadow-2xl mb-4">
-                            Nayeem Abdullah
+                            Atik Ahad
                         </h1>
                         <p className="text-xl md:text-4xl text-white/70 font-medium drop-shadow-md flex items-center gap-3 justify-center">
-                            Abid <span className="text-blue-400">&bull;</span> Flutter Developer
+                            Ahad <span className="text-blue-400">&bull;</span> Flutter Developer
                         </p>
                     </motion.div>
 
